@@ -2,7 +2,7 @@
 1. Clonar el repositorio con el comando ```git clone```
 
 ```bash
-git clone https://github.com/FleitasEzequiel/sdn-simulador.git
+git clone https://github.com/Emiliojoa/SDN-simulador.git
 ```
 
 2. Dirigirse a la carpeta __snd-simulador__
